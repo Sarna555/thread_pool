@@ -1,0 +1,14 @@
+---
+BasedOnStyle: Google
+AccessModifierOffset: -4
+AlignArrayOfStructures: Left
+BreakBeforeBraces: Allman
+BreakInheritanceList: AfterComma
+ColumnLimit: 100
+CommentPragmas: ""
+IndentCaseBlocks: true
+IndentPPDirectives: BeforeHash
+IndentWidth: 4
+InsertBraces: true
+SeparateDefinitionBlocks: Always
+TabWidth: 4
